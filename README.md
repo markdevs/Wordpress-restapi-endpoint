@@ -9,3 +9,5 @@ Esse projeto inclui a criação de campos personalizados através do plugin ACF 
 2 - Instalar o ACF e criar os campos no CPT de acordo com a sua necessidade.
 
 3 - Criar a pasta para adicionar os arquivos que serão responsáveis pela requisição e adição dos endpoints.
+
+A criação dessa API foi para criação de um APP com vue.js
